@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: /_pages/about/
+    url: /about/
   - title: "Chatbot"
-    url: /_pages/chatbot/
+    url: /chatbot/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
